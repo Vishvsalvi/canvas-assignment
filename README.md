@@ -8,7 +8,7 @@ This project is a simple image inpainting widget built with **react-canvas-draw*
 
 2. Navigate to the project directory:
 
-3. Run ```npm i``` and ```npm run dev```
+3. Run ```npm install react-canvas-draw --legacy-peer-deps react@npm:react@18.1.0 react-dom@npm:react-dom@18.1.0``` and ```npm run dev```
 
 4. Open your browser and go to localhost:3000
 
